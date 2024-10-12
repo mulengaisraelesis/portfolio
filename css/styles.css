@@ -1,0 +1,11 @@
+
+div{
+    background-color: rgb(42, 42, 190);
+    padding: 50px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
